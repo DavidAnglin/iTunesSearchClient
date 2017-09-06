@@ -42,7 +42,6 @@ class SearchResultsController: UITableViewController {
             }
         }
     }
-    
 }
 
 extension SearchResultsController: UISearchResultsUpdating {
